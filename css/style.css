@@ -137,7 +137,7 @@ nav li a.imglogo{
 }
 
 /*Banner Content Box*/
-.container-banner-box{
+.banner-box-container{
     height: 100%;
     background: rgba(0, 0, 0, 0.7);
     padding: 10px;   
@@ -163,14 +163,14 @@ h3 {
 }
 
 /*Banner Paragraph style*/
-.container-banner-box p {
+.banner-box-container p {
     font-size: 20px;
     margin: 30px 0px 30px 0px;
     color: white;
 }
 
 /*Banner Button style*/
-.container-banner-box .connect-btn {
+.banner-box-container .connect-btn {
     background-color: #c78c06;
     padding: 20px;
     margin: 30px 0px 30px 0px;
